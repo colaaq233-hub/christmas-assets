@@ -1,6 +1,34 @@
 [
   {
     "name": "紅色聖誕帽",
-    "url": "https://cdn.jsdelivr.net/gh/colaaq233-hub/christmas-assets@main/my-hat.png?v=2"
+    "url": "https://cdn.jsdelivr.net/gh/colaaq233-hub/christmas-assets@main/my-hat.png?v=2024"
+  },
+  {
+    "name": "可愛小鹿",
+    "url": "https://cdn.jsdelivr.net/gh/colaaq233-hub/christmas-assets@main/deer.png?v=2024"
+  },
+  {
+    "name": "聖誕風格圖標",
+    "url": "https://cdn.jsdelivr.net/gh/colaaq233-hub/christmas-assets@main/ch.png?v=2024"
+  },
+  {
+    "name": "酷酷裝飾",
+    "url": "https://cdn.jsdelivr.net/gh/colaaq233-hub/christmas-assets@main/cool.png?v=2024"
+  },
+  {
+    "name": "可愛裝飾",
+    "url": "https://cdn.jsdelivr.net/gh/colaaq233-hub/christmas-assets@main/cute.png?v=2024"
+  },
+  {
+    "name": "薑餅人",
+    "url": "https://cdn.jsdelivr.net/gh/colaaq233-hub/christmas-assets@main/ginger.png?v=2024"
+  },
+  {
+    "name": "凱蒂貓",
+    "url": "https://cdn.jsdelivr.net/gh/colaaq233-hub/christmas-assets@main/kitty.png?v=2024"
+  },
+  {
+    "name": "紅鼻子",
+    "url": "https://cdn.jsdelivr.net/gh/colaaq233-hub/christmas-assets@main/nose.png?v=2024"
   }
 ]
